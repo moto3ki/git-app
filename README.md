@@ -25,8 +25,3 @@ Things you may want to cover:
 
 # README
 ## how to use GitHub Desktop
-<<<<<<< Updated upstream
-=======
-
-####motoki
->>>>>>> Stashed changes
